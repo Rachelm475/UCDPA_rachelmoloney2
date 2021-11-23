@@ -1,0 +1,501 @@
+Company Name,Country,Sales,Profits,Assets,MarketValue
+MGM Resorts,United States,5.2,-0.9972,39.1,19.9
+Molson Coors Brewing,United States,9.7,-0.949,27.3,11.6
+Snap,United States,2.5,-0.9448,5,92.4
+Loews,United States,12.6,-0.931,75.8,14.5
+Annaly Capital Management,United States,1.5,-0.8912,88.5,12.4
+News Corp,United States,8.7,-0.862,15.1,15.8
+CenterPoint Energy,United States,7.4,-0.773,34.4,13.3
+Moderna,United States,0.803,-0.7471,7.3,68.4
+Hilton,United States,4.3,-0.715,16.8,35.7
+WestRock,United States,17.6,-0.6775,28.8,14.4
+Viatris,United States,11.9,-0.6699,61.6,16.2
+Gap,United States,13.8,-0.665,13.8,12.3
+Equitable Holdings,United States,12.4,-0.635,275.4,14.4
+Walgreens,United States,138.5,-0.616,90.9,46.1
+EOG Resources,United States,9.9,-0.6046,35.8,41.2
+Snowflake,United States,592,-0.5391,5.9,67.2
+Twilio,United States,1.8,-0.491,9.5,65.7
+Teladoc Health,United States,1.1,-0.4851,18.3,29.3
+Hewlett Packard Enterprise,United States,26.9,-0.432,53.5,20.8
+Prudential Financial,United States,57,-0.408,940.7,39.1
+Dominion Energy,United States,15.2,-0.401,95.9,66.2
+Sysco,United States,45.9,-0.3375,22.5,41.1
+Workday,United States,4.3,-0.2824,8.7,62.3
+Marriott International,United States,10.6,-0.267,24.7,48.4
+AGNC Investment,United States,0.341,-0.266,81.8,9.3
+VF,United States,8.8,-0.1654,13.7,33.2
+Kohl's,United States,16,-0.163,15.3,9.4
+Boston Scientific,United States,9.9,-0.139,30.8,58.1
+Zimmer Biomet,United States,7,-0.1389,24.4,35.8
+Pioneer Natural Resources,United States,7,-0.128,20.9,32.1
+Welltower,United States,4.6,-0.1096,32.5,31.6
+Chewy,United States,7.1,-0.0925,1.7,34.9
+Cheniere Energy,United States,9.4,-0.085,38.7,18.8
+ExxonMobil,United States,178.2,-22.4,332.8,239.9
+Occidental Petroleum,United States,19.7,-14.8,84.4,22.8
+Delta Air Lines,United States,12.7,-13,73.1,29.8
+Boeing,United States,58.2,-11.9,152.1,144.8
+Carnival,United States,831,-11.4,57.2,30.6
+Schlumberger,United States,23.6,-10.5,42.4,36.8
+Baker Hughes Company,United States,20.7,-9.9,38,15.4
+Marathon Petroleum,United States,75,-9.9,85.2,35.4
+Bristol Myers Squibb,United States,42.5,-9,118.5,146.2
+American Airlines Group,United States,17.3,-8.9,62,14.1
+United Airlines Holdings,United States,15.4,-7.1,66,18.1
+Uber,United States,12.1,-6.8,33.3,112.7
+American International Group,United States,43.7,-5.9,512.9,40.6
+Royal Caribbean Group,United States,2.2,-5.8,32.5,21.7
+Chevron,United States,94.4,-5.5,239.8,198.5
+AT&T,United States,171.8,-5.2,525.8,213.8
+Walt Disney,United States,60.4,-5,201.9,339.9
+AirBnB,United States,3.4,-4.6,10.5,107.1
+McKesson,United States,237.6,-4.2,61.8,30.7
+Phillips 66,United States,63.7,-4,54.7,34.5
+Macy's,United States,18.1,-3.9,19.1,5.2
+Raytheon Technologies,United States,63.5,-3.5,162.2,118.6
+AmerisourceBergen,United States,194.5,-3.2,45.8,24.5
+Southwest Airlines,United States,9,-3.1,36.6,36.9
+DuPont de Nemours,United States,20.4,-3,70.9,41.2
+Halliburton,United States,14.4,-2.9,20.7,18.4
+DXC Technology,United States,18.2,-2.8,23.6,8.1
+ConocoPhillips,United States,18.8,-2.7,62.6,69.1
+Expedia Group,United States,5.2,-2.6,18.7,25
+Caesars Entertainment,United States,3.5,-1.8,36.4,19.5
+Las Vegas Sands,United States,3.6,-1.7,20.8,46.6
+Valero Energy,United States,64.9,-1.4,52.4,29.6
+PG&E,United States,18.5,-1.3,106.9,23
+Ford Motor,United States,127.1,-1.3,267.3,48.8
+Ecolab,United States,12.4,-1.2,18.1,63.8
+Lumen Technologies,United States,20.7,-1.2,59.4,14.1
+Twitter,United States,3.7,-1.1,13.4,56
+Brighthouse Financial,United States,8.5,-1.1,249.6,4.1
+Amphenol,United States,8.6,0,12.3,41
+Voya Financial,United States,7.6,0.033,178.2,8.3
+AES,United States,9.7,0.043,34.6,19.1
+Booking Holdings,United States,6.8,0.059,21.9,101.7
+Ross Stores,United States,12.5,0.0854,13.7,46.3
+TJX Cos,United States,32.1,0.09,30.8,84.4
+XPO Logistics,United States,16.3,0.091,16.2,15.3
+Alleghany,United States,8.9,0.1018,28.1,9.5
+Kinder Morgan,United States,11.5,0.11,73.5,37.5
+ServiceNow,United States,4.5,0.1185,8.7,109.2
+Gilead Sciences,United States,24.6,0.12,68.4,84
+Lear,United States,17,0.1585,13.2,11
+Fidelity National Information,United States,12.6,0.16,83.8,94.9
+Western Digital,United States,16.3,0.167,25.6,21.1
+StoneX Group,United States,52.1,0.169,14,1.3
+Genworth Financial,United States,8.7,0.178,89.9,1.8
+Genuine Parts,United States,17,0.1835,13.4,17.3
+Wayfair,United States,14.1,0.185,4.6,33.4
+Williams,United States,7.7,0.211,46.2,28.7
+Square,United States,9.5,0.2131,9.9,116.4
+IQVIA,United States,11.4,0.279,24.6,41.3
+Textron,United States,11.7,0.309,15.4,13.3
+Coinbase,United States,1.3,0.3223,5.9,68.1
+Starwood Property Trust,United States,1.1,0.3258,80.9,7.3
+Microchip Technology,United States,5.3,0.3333,16.6,42.6
+Interpublic Group,United States,9.1,0.3511,18,12
+Chipotle Mexican Grill,United States,6,0.3558,6.9,43.3
+Digital Realty Trust,United States,3.9,0.3564,36.1,41
+Kraft Heinz Company,United States,26.2,0.36,99.8,50.1
+International Flavors & Fragrances,United States,5.1,0.3641,13.6,35.6
+DCC,United States,17,0.365,9.9,8.8
+Jabil Circuit,United States,28.3,0.3689,14.5,8.1
+Equinix,United States,6,0.3698,27,63.4
+Synovus Financial,United States,2.3,0.3737,54.6,7
+Veeva Systems,United States,1.5,0.38,3,41.6
+AutoNation,United States,20.4,0.3816,10.1,8
+TransDigm Group,United States,4.7,0.394,18.6,33.8
+Realty Income,United States,1.7,0.3955,20.7,25
+Liberty Broadband,United States,51,0.3976,21.7,29.4
+Tenet Healthcare,United States,17.6,0.399,27.1,5.8
+Henry Schein,United States,10.1,0.4022,7.8,10.1
+Jones Lang LaSalle,United States,16.7,0.4025,14.3,9.2
+Healthpeak Properties,United States,2.2,0.411,15.9,17.9
+Navient,United States,3.7,0.411,87.4,2.7
+Westinghouse Air Brake Technologies,United States,7.6,0.4139,18.5,15.2
+Reinsurance Group of America,United States,14.6,0.415,83.7,9
+BJ's Wholesale Club,United States,15.4,0.421,5.4,6.2
+AGCO,United States,9.2,0.4271,8.5,11.4
+Commerce Bank,United States,1.4,0.4304,33.3,9
+BOK Financial,United States,1.9,0.4328,46.7,6.4
+Ansys,United States,1.7,0.4339,5.9,32.6
+Ventas,United States,3.8,0.4391,23.9,20.8
+Altice USA,United States,9.9,0.44,34,22.7
+Assurant,United States,10.1,0.4418,34.8,9.2
+Jacobs,United States,13.5,0.4436,12.8,17.4
+Quanta Services,United States,11.2,0.4456,8.4,13.2
+Packaging Corp of America,United States,6.7,0.4574,7.7,13.3
+Lithia Motors,United States,13.1,0.4703,8.1,10.4
+Comerica,United States,3.1,0.472,88.1,9.8
+Extra Space Storage,United States,1.3,0.4729,9.4,19.1
+Eastman Chemical,United States,8.5,0.478,16.1,15.7
+International Paper,United States,20.6,0.48,31.7,22.5
+Qorvo,United States,3.7,0.4853,7,21.8
+Fortinet,United States,2.6,0.4862,4,33.6
+SYNNEX,United States,24.4,0.4893,7.7,6.4
+First Citizens Bank (NC),United States,2,0.4917,50,8.4
+Take-Two Interactive Software,United States,3.3,0.4928,6,20.6
+Advance Auto Parts,United States,10.1,0.493,11.8,12.6
+DexCom,United States,1.9,0.4936,4.4,38.7
+BorgWarner,United States,10.2,0.5,16,11.7
+Lincoln National,United States,17.4,0.5,352.4,12.5
+Zebra Technologies,United States,4.5,0.504,5.4,27.5
+Citrix Systems,United States,3.2,0.5044,4.9,17.3
+New York Community Bancorp,United States,1.8,0.5053,56.4,5.8
+C.H. Robinson,United States,16.2,0.5064,5.1,13.2
+Popular,United States,2.6,0.5066,65.9,6.1
+Equifax,United States,4.1,0.5072,9.6,23.4
+NRG Energy,United States,8.9,0.51,14.9,9.5
+Corning,United States,11.3,0.51,30.8,35.2
+Community Health Systems,United States,11.8,0.511,16,1.3
+Ubiquiti,United States,1.6,0.5125,781,18
+Mohawk Industries,United States,9.6,0.5156,14.3,14.3
+Broadridge Financial,United States,4.8,0.5186,4.9,18.2
+Waters,United States,2.4,0.5216,2.8,18.6
+Signature Bank,United States,2,0.5266,74.1,13.1
+Prosperity Bancshares,United States,1.3,0.5289,34.1,7.1
+Dick's Sporting Goods,United States,9.6,0.5303,7.8,7.5
+WR Berkley,United States,8,0.5307,28,14.2
+Flagstar Bancorp,United States,2,0.538,31.1,2.3
+Penske Automotive,United States,20.4,0.5436,14,7
+Booz Allen Hamilton Holding,United States,7.8,0.5466,5.4,11.7
+J.B. Hunt Transport Services,United States,10,0.5478,6.2,18.2
+FMC,United States,4.6,0.5501,10.2,14.7
+Pinnacle West,United States,3.6,0.5506,20,9.6
+Steel Dynamics,United States,9.6,0.5508,9.3,10.9
+Fortune Brands Home & Security,United States,6.1,0.5531,7.4,14.3
+Avery Dennison,United States,7,0.5559,6.1,16.5
+Akamai Technologies,United States,3.2,0.5571,7.8,17.3
+Old Republic International,United States,7.2,0.5586,18.8,7.2
+East West Bancorp,United States,1.8,0.5678,52.3,10.6
+Essex Property Trust,United States,1.5,0.5689,12.9,18.8
+People's United Bank,United States,2.2,0.5726,63.1,7.6
+Crown Holdings,United States,11.6,0.579,16.7,14.7
+Global Payments,United States,7.4,0.58,44.2,64.3
+IDEXX Laboratories,United States,2.7,0.5818,2.3,45.8
+Arrow Electronics,United States,28.7,0.5844,17.1,8.7
+Vulcan Materials,United States,4.9,0.5845,11.9,23.3
+Ball,United States,11.8,0.59,18.3,29.9
+Freeport-McMoRan,United States,13.9,0.59,42.1,55.6
+Cadence Design,United States,2.7,0.5906,4,41.1
+NetApp,United States,5.6,0.592,8.7,17.3
+MSCI,United States,1.7,0.6018,4.2,39.2
+Mettler-Toledo International,United States,3.1,0.6027,2.8,29.9
+Alexion Pharmaceuticals,United States,6.1,0.6034,18.1,36.2
+Schroders,United States,3.3,0.6108,29.6,13.7
+Oneok,United States,8.6,0.6128,23.1,23
+Seagen,United States,2.2,0.614,4,26.4
+Western Alliance Bancorp.,United States,1.3,0.6151,43.4,10.4
+Kansas City Southern,United States,2.6,0.6182,10.2,23.4
+Evergy,United States,4.9,0.6183,27.1,14.4
+Xilinx,United States,3.1,0.6209,5.7,31.6
+UGI,United States,6.5,0.623,14.7,9.2
+Alliant Energy,United States,3.4,0.6245,18.3,14
+SS&C Technologies,United States,4.7,0.6252,15.9,18.6
+Leidos,United States,12.3,0.628,12.5,14.4
+Masco,United States,7.2,0.631,5.8,16.4
+Arista Networks,United States,2.3,0.6346,4.7,24.2
+Keysight Technologies,United States,4.3,0.636,7.5,27.1
+Vistra Energy,United States,11.1,0.636,25.2,8.6
+LKQ,United States,11.6,0.6384,12.4,13.5
+Atmos Energy,United States,2.9,0.64,16.5,13
+Berry Global Group,United States,12,0.642,17.2,8.4
+Illumina,United States,3.2,0.656,7.6,58.2
+Amerco,United States,4.3,0.6594,14.4,12
+Starbucks,United States,23.2,0.66,30,139.3
+Mosaic,United States,8.7,0.6661,19.8,12.7
+American Equity Investment,United States,3.7,0.6715,68,3
+Zoom Video Communications,United States,2.7,0.6716,5.3,96.9
+Old Dominion Freight Line,United States,4,0.6727,4.4,29.4
+Molina Healthcare,United States,19.3,0.673,9.6,14.6
+Corteva,United States,14.2,0.68,42.6,35.2
+Williams-Sonoma,United States,6.8,0.6807,4.7,13.3
+Dover,United States,6.7,0.6835,9.2,20.2
+Tesla,United States,31.5,0.69,52.1,710.1
+WW Grainger,United States,11.8,0.695,6.3,21.3
+Huntington Ingalls Industries,United States,9.4,0.696,8.7,8.4
+Expeditors International,United States,10.1,0.6961,4.9,18.8
+First American Financial,United States,7.1,0.6964,12.8,6.8
+ResMed,United States,3.1,0.6989,4.6,30.2
+FleetCor Technologies,United States,2.4,0.7042,11.2,24.3
+Copart,United States,2.3,0.7067,3.9,29.2
+Zions Bancorp,United States,2.9,0.708,81.5,9.2
+American Water Works,United States,3.8,0.709,25.8,29.1
+Verisk Analytics,United States,2.8,0.7127,7.6,30.1
+Nucor,United States,20.1,0.72,20.1,23.7
+Martin Marietta Materials,United States,4.7,0.7204,10.9,21.9
+Maxim Integrated Products,United States,2.4,0.7219,3.9,25.5
+Synopsys,United States,3.8,0.7226,8,39.7
+PerkinElmer,United States,3.8,0.728,8,14.9
+OneMain Holdings,United States,4.9,0.73,22.5,7.5
+Globe Life,United States,4.7,0.7318,29,10.8
+American Financial Group,United States,7.8,0.732,63.9,10.2
+Edison International,United States,13.6,0.74,69.4,23.3
+Tractor Supply,United States,10.6,0.749,7,21
+CarMax,United States,19,0.75,21.5,21.1
+CBRE Group,United States,23.8,0.75,18,27.5
+CMS Energy,United States,6.7,0.755,29.7,18.5
+Alexandria Real Estate Equities,United States,1.9,0.7587,22.8,24
+Invesco,United States,6.2,0.7616,36.5,12.3
+McCormick,United States,5.9,0.7645,12.7,23.7
+Franklin Resources,United States,5.8,0.7675,21.2,15.2
+Cerner,United States,5.5,0.7801,7.5,22.8
+DaVita,United States,11.6,0.7833,17.8,12.4
+Teradyne,United States,3.1,0.7841,3.7,21.6
+Church & Dwight,United States,4.9,0.7859,7.4,21.6
+Markel,United States,9.7,0.79,34.9,16.7
+Unum,United States,13.2,0.79,60.7,5.9
+CDW,United States,18.5,0.79,9.3,25.9
+Weyerhaeuser,United States,7.5,0.797,16.3,29.4
+Campbell Soup,United States,9,0.806,12.5,15
+Agilent Technologies,United States,5.5,0.81,9.7,41
+VeriSign,United States,1.3,0.8149,1.8,23.5
+Gallagher,United States,6.9,0.8188,22.3,26.7
+Huntington Bank,United States,5,0.82,123,16.5
+Edwards Lifesciences,United States,4.4,0.8234,7.2,55.4
+AvalonBay Communities,United States,2.3,0.8257,19.2,26.5
+First Horizon,United States,3.4,0.845,84.7,9.7
+L Brands,United States,11.8,0.8453,11.6,18.6
+BioMarin Pharmaceutical,United States,1.8,0.8591,5.8,14.4
+Raymond James Financial,United States,8.4,0.86,53.7,17.9
+Fastenal,United States,5.7,0.8671,4.1,29
+Ameren,United States,5.8,0.871,32,21.5
+Ametek,United States,4.5,0.8724,10.4,30.7
+Boston Properties,United States,2.8,0.8768,22.9,18.2
+Equity Residential,United States,2.5,0.8794,20.3,27.1
+SLM,United States,2.3,0.8807,30.8,7
+Hormel Foods,United States,9.7,0.8875,10,25.3
+United Rentals,United States,8.5,0.89,18.4,23.7
+VICI Properties,United States,1.2,0.8917,17.1,16.1
+NVR,United States,7.4,0.9012,5.8,18.3
+Yum! Brands,United States,5.7,0.904,5.9,35.3
+Otis Worldwide,United States,12.8,0.91,10.7,30.3
+Brown-Forman,United States,3.3,0.911,6.5,35.5
+The Estée Lauder Companies,United States,14.2,0.93,19.6,113.3
+NASDAQ,United States,5.6,0.932,18,26.4
+Universal Health Services,United States,11.6,0.941,13.5,12.4
+Motorola Solutions,United States,7.4,0.949,10.9,31.9
+Roper Technologies,United States,5.5,0.95,24,44.4
+Omnicom Group,United States,13.2,0.95,27.6,17.1
+JM Smucker,United States,8.2,0.9513,16.4,14.4
+Fiserv,United States,14.9,0.96,74.6,83.4
+Republic Services,United States,10.2,0.97,23.4,33.3
+Royalty Pharma,United States,2.1,0.9749,16,16.3
+Cintas,United States,6.9,0.9805,8.3,36.8
+FirstEnergy,United States,10.8,1,44.5,19.4
+Paychex,United States,3.9,1.1,9.7,35.1
+Skyworks Solutions,United States,4,1.1,5.4,31.3
+Intuitive Surgical,United States,4.4,1.1,11.2,96.2
+Crown Castle International,United States,5.8,1.1,38.8,77.6
+Regions Financial,United States,6.4,1.1,147.4,20.4
+Baxter International,United States,11.7,1.1,20,43.8
+Consolidated Edison,United States,12.2,1.1,62.9,26.8
+Discover Financial Services,United States,13,1.1,113.3,31.3
+L3Harris Technologies,United States,18.2,1.1,37,43.3
+Whirlpool,United States,19.4,1.1,20.4,14.7
+CRH,United States,27.5,1.1,44.9,38.2
+Albertsons,United States,69.4,1.1,26.3,9.3
+Autodesk,United States,3.8,1.2,7.3,65.9
+SVB Financial Group,United States,4,1.2,115.5,28
+First Republic Bank,United States,4.6,1.2,155.8,31.6
+Simon Property Group,United States,4.6,1.2,34.8,38.4
+Electronic Arts,United States,5.7,1.2,12.4,40.6
+Northern Trust,United States,6.1,1.2,170,22.2
+WEC Energy Group,United States,7.2,1.2,37.9,30.6
+Cincinnati Financial,United States,7.5,1.2,27.2,17.1
+Clorox,United States,7.5,1.2,6.9,24
+Jefferies Financial,United States,8.1,1.2,56.9,8
+Eversource Energy,United States,8.9,1.2,46.1,30.8
+Discovery,United States,10.6,1.2,34.1,18.2
+Conagra Brands,United States,11.7,1.2,22.1,18
+Qurate Retail Group,United States,14.2,1.2,17,5.1
+PPG,United States,14.3,1.2,20.1,39.7
+Stanley Black & Decker,United States,14.5,1.2,23.6,33.1
+Dow,United States,38.5,1.2,61.5,48.2
+Bunge,United States,41.4,1.2,23.7,11.8
+M&T Bank,United States,6.1,1.3,142.6,19.8
+Rockwell Automation,United States,6.2,1.3,8.2,30.9
+KeyCorp,United States,7.3,1.3,170.3,20
+Hershey,United States,8.2,1.3,9.1,33.3
+Keurig Dr Pepper,United States,11.6,1.3,49.8,50.7
+Kellogg,United States,13.8,1.3,18,21.6
+Paccar,United States,18.7,1.3,28.3,33
+Dollar Tree,United States,25.5,1.3,20.7,27.4
+Public Storage,United States,2.9,1.4,11.8,46.6
+Hologic,United States,4.5,1.4,7.6,19.8
+Monster Beverage,United States,4.6,1.4,6.3,51.8
+Analog Devices,United States,5.9,1.4,21.4,58.8
+KLA,United States,6.1,1.4,9.8,51.3
+Fifth Third Bank,United States,7.4,1.4,204.7,27.2
+Quest Diagnostics,United States,9.4,1.4,14,17.1
+Entergy,United States,10,1.4,58.2,21.4
+Fidelity National Financial,United States,10.8,1.4,48.4,13
+PulteGroup,United States,11,1.4,12.2,14.3
+DTE Energy,United States,12.3,1.4,45.5,27.3
+Synchrony Financial,United States,12.8,1.4,95.9,24.1
+Parker-Hannifin,United States,13.5,1.4,19.8,41.4
+Principal Financial Group,United States,14.7,1.4,296.6,17.2
+Cognizant,United States,16.7,1.4,16.9,42.8
+Duke Energy,United States,23.9,1.4,167.3,77.4
+United Parcel Service,United States,84.4,1.4,62.4,156
+Cardinal Health,United States,156.5,1.4,44.7,18
+Prologis,United States,4.4,1.5,56.1,84.2
+PPL,United States,7.6,1.5,48.1,22.4
+Xcel Energy,United States,11.5,1.5,56.3,37.9
+Ameriprise Financial,United States,12.1,1.5,165.9,29
+Fox,United States,12.7,1.5,22.8,22.4
+Waste Management,United States,15.2,1.5,29.7,57
+PennyMac Financial Services,United States,3.2,1.6,31.6,4
+Fortive,United States,6.5,1.6,16.1,24.5
+Zoetis,United States,6.7,1.6,13.6,79.6
+Citizens Bank (Rhode IsIand),United States,7.4,1.6,187.2,19.1
+LabCorp,United States,14,1.6,20.1,25.6
+Stryker,United States,14.4,1.6,34.3,96.8
+Becton Dickinson,United States,18.2,1.6,54.7,75.8
+Intuit,United States,7.7,1.7,14.6,113.9
+American Tower,United States,8,1.7,47.2,110.6
+Hartford Financial Services,United States,20.5,1.7,69.2,23.7
+BAE Systems,United States,24.7,1.7,38.2,23.2
+Align Technology,United States,2.5,1.8,4.8,48
+Moody's,United States,5.4,1.8,12.4,60.3
+O'Reilly Automotive,United States,11.6,1.8,12.3,37.2
+DISH Network,United States,15.5,1.8,38.4,20
+Cummins,United States,19.8,1.8,22.6,38.7
+Best Buy,United States,47.3,1.8,19.1,30
+Archer Daniels Midland,United States,64.4,1.8,49.7,33.2
+Centene,United States,111.1,1.8,69.8,37.8
+Air Products & Chemicals,United States,9,1.9,26.1,63.6
+Public Service Enterprise Group,United States,9.3,1.9,50.1,32
+AutoZone,United States,13.4,1.9,14.2,33
+Celanese,United States,5.7,2,10.9,18
+Constellation Brands,United States,8.6,2,27.1,45.8
+Norfolk Southern,United States,9.8,2,38.4,73.5
+Marsh & McLennan,United States,17.2,2,33,64.9
+Carrier Global,United States,17.5,2,25.1,38.1
+Sherwin-Williams,United States,18.4,2,20.4,71.4
+Exelon,United States,33.4,2,129.3,45.1
+Tyson Foods,United States,42.8,2,35.5,28.2
+CME Group,United States,4.9,2.1,124.7,74.5
+IntercontinentalExchange,United States,7.6,2.1,126.2,67.9
+VMware,United States,11.8,2.1,29,68.8
+Illinois Tool Works,United States,12.6,2.1,15.6,70.9
+Emerson Electric,United States,16.8,2.1,23.7,55.3
+Cooper Companies,United States,2.5,2.2,8.9,19.6
+Activision Blizzard,United States,8.1,2.2,23.1,74.7
+Ally Financial,United States,10.5,2.2,181.9,17.8
+American Electric,United States,14.9,2.2,84,44
+T Rowe Price,United States,6.2,2.3,10.9,40.5
+S&P Global,United States,7.4,2.3,12.5,91.1
+State Street,United States,11.4,2.3,316.9,28
+Kimberly-Clark,United States,19.1,2.4,17.5,47.1
+ViacomCBS,United States,25.9,2.4,52.7,25.4
+Advanced Micro Devices,United States,9.8,2.5,9,99.8
+Automatic Data Processing,United States,14.6,2.5,49.3,82.6
+General Mills,United States,18.6,2.5,32.6,37.4
+Kroger,United States,132.5,2.6,51.6,28.3
+Vertex Pharmaceuticals,United States,6.2,2.7,11.8,56.8
+Colgate-Palmolive,United States,16.5,2.7,15.9,68.5
+D.R. Horton,United States,22.2,2.7,19.8,35.1
+Capital One,United States,31.6,2.7,421.6,62.4
+Travelers,United States,32,2.7,109.1,39.2
+Dollar General,United States,33.7,2.7,28.5,51.9
+CSX,United States,10.6,2.8,40.3,74.9
+Newmont Mining,United States,11.4,2.8,41.4,52.4
+Netflix,United States,25,2.8,39.3,242.1
+NextEra Energy,United States,17.2,2.9,127.7,158.8
+Lam Research,United States,11.9,3,15.4,92
+Lennar,United States,23.3,3,30.6,33.2
+Caterpillar,United States,41.7,3,78.3,127.3
+FedEx,United States,78.7,3,82.8,76.3
+Southern Company,United States,20.2,3.1,122.9,68.7
+American Express,United States,38.2,3.1,191.4,120.5
+Micron Technology,United States,23.5,3.2,54.1,101.7
+Northrop Grumman,United States,36.8,3.2,44.5,55.8
+General Dynamics,United States,37.9,3.2,51.3,52.3
+Charter Communications,United States,48.1,3.2,146.1,124.8
+HP,United States,57.7,3.2,34.7,42.6
+Dell Technologies,United States,94.3,3.3,123.4,77.4
+Nike,United States,38.5,3.4,36.2,212.2
+Humana,United States,77.1,3.4,35.1,56.2
+Regeneron Pharmaceuticals,United States,8.5,3.5,17.2,53.8
+Deere & Company,United States,37,3.5,75.5,120.1
+Bank of New York Mellon,United States,15.9,3.6,469.6,40.4
+Danaher,United States,22.3,3.6,76.2,173.3
+Mondelez International,United States,26.6,3.6,67.8,82.6
+Bio-Rad Laboratories,United States,2.5,3.8,13,18.7
+Rocket Companies,United States,16.3,3.8,37.5,3
+HCA Healthcare,United States,51.5,3.8,47.5,66.4
+Sempra Energy,United States,11.4,3.9,66.6,41.8
+Applied Materials,United States,18.2,3.9,23.3,122.7
+Biogen,United States,10.6,4,24.6,40.7
+Charles Schwab,United States,13.8,4,563.5,116.9
+Broadcom,United States,24.7,4,77,195.5
+Salesforce.com,United States,21.3,4.1,66.3,213.6
+PayPal,United States,21.4,4.2,70.4,316.9
+NVIDIA,United States,16.7,4.3,28.8,396.1
+Costco Wholesale,United States,178.6,4.3,54.9,164.1
+Target,United States,93.6,4.4,51.2,104
+Altria Group,United States,20.8,4.5,47.4,96.9
+Abbott Laboratories,United States,34.6,4.5,72.5,220.3
+AbbVie,United States,45.8,4.6,150.6,190.4
+Anthem,United States,121.9,4.6,88.3,92
+McDonald's,United States,19.2,4.7,52.6,173.8
+Aflac,United States,22.1,4.8,164.1,36.8
+Honeywell International,United States,32.6,4.8,64.6,161.2
+Truist Financial,United States,24.3,4.9,517.5,77.8
+BlackRock,United States,18.1,5.3,177,123.9
+Union Pacific,United States,19.5,5.3,63.5,148.5
+3M,United States,32.2,5.4,47.3,115.1
+MetLife,United States,67.8,5.4,795.1,55.8
+Adobe,United States,13.7,5.6,25,251
+Texas Instruments,United States,14.5,5.6,19.4,177.2
+Allstate,United States,44.8,5.6,117.9,36.7
+IBM,United States,73.6,5.6,156,119.4
+General Electric,United States,79.9,5.6,255.1,117.6
+eBay,United States,10.7,5.7,19.3,44.2
+Progressive,United States,42.6,5.7,60.8,57.8
+Lowe's,United States,89.6,5.8,48.3,149.4
+US Bancorp,United States,23.1,6.1,553.4,86.9
+Eli Lilly,United States,24.5,6.2,46.6,181.4
+Mastercard,United States,15.3,6.4,33.6,383.6
+Thermo Fisher Scientific,United States,32.2,6.4,69.1,193.7
+General Motors,United States,122.5,6.4,235.2,84.6
+Qualcomm,United States,26.7,6.7,37.5,157
+Lockheed Martin,United States,65.4,6.8,50.7,109.2
+Merck & Co.,United States,47.8,7.1,91.6,196
+CVS Health,United States,268.7,7.2,238.5,99.6
+Amgen,United States,25.2,7.3,62.9,147.2
+Freddie Mac,United States,68.7,7.3,2627.4,1.5
+Wells Fargo,United States,85.9,7.4,1959.5,181.5
+PepsiCo,United States,71.3,7.5,91.2,199.2
+Coca-Cola,United States,33,7.7,87.3,231.3
+Philip Morris International,United States,28.7,8,44.8,144.8
+British American Tobacco,United States,33.1,8.2,188.2,91.6
+PNC Financial Services,United States,17.4,8.4,474.4,75.8
+Cigna,United States,160.6,8.5,151.5,87.7
+Pfizer,United States,47.6,9.6,154.2,215.2
+Cisco Systems,United States,48,10.1,95.6,222.9
+Visa,United States,21.5,10.4,80.4,483.9
+Comcast,United States,103.6,10.5,273.9,252.4
+Fannie Mae,United States,109.6,11.8,3986.1,2.8
+Oracle,United States,39.7,12.8,118.1,227.7
+Home Depot,United States,132.1,12.9,70.6,352.8
+Morgan Stanley,United States,56.7,13.4,1158.8,123.9
+Walmart,United States,559.2,13.5,252.5,396.1
+Procter & Gamble,United States,74,13.8,120.1,338
+Johnson & Johnson,United States,82.6,14.7,174.9,427.1
+Goldman Sachs Group,United States,61.8,15.1,1302,116.5
+UnitedHealth Group,United States,262.9,16.9,205.2,369.6
+Citigroup,United States,84.4,17.1,2314.3,151.2
+Verizon Communications,United States,128.3,17.8,316.5,241.3
+Bank of America,United States,98.8,17.9,2832.2,336.3
+Intel,United States,77.9,20.9,153.1,263.7
+Amazon,United States,386.1,21.3,321.2,1711.8
+Facebook,United States,86,29.1,159.3,870.5
+Alphabet,United States,182.4,40.3,319.6,1538.9
+JPMorgan Chase,United States,136.2,40.4,3689.3,464.8
+Berkshire Hathaway,United States,245.5,42.5,873.7,624.4
+Microsoft,United States,153.3,51.3,304.1,1966.6
+Apple,United States,294,63.9,354.1,2252.3

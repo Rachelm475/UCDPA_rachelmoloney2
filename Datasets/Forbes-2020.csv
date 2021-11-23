@@ -1,0 +1,501 @@
+Rank,Name,Country,Sales,Profits,Assets,MV,Year
+1,ICBC,China,177.20,45.30,4322.50,242.30,2020
+2,China Construction Bank,China,162.10,38.90,3822.00,203.80,2020
+3,JPMorgan Chase,United States,142.90,30.00,3139.40,291.70,2020
+4,Berkshire Hathaway,United States,254.60,81.40,817.70,455.40,2020
+5,Agricultural Bank of China,China,148.70,30.90,3697.50,147.20,2020
+6,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,329.80,88.20,398.30,1684.80,2020
+7,Ping An Insurance Group,China,155.00,18.80,1218.60,187.20,2020
+8,Bank of America,United States,112.10,24.10,2620.00,208.60,2020
+9,Apple,United States,267.70,57.20,320.40,1285.50,2020
+10,Bank of China,China,135.40,27.20,3387.00,112.80,2020
+11,AT&T,United States,179.20,14.40,545.40,218.60,2020
+12,Toyota Motor,Japan,280.50,22.70,495.10,173.30,2020
+13,Alphabet,United States,166.30,34.50,273.40,919.30,2020
+14,ExxonMobil,United States,256.00,14.30,362.60,196.60,2020
+15,Microsoft,United States,138.60,46.30,285.40,1359.00,2020
+16,Samsung Electronics,South Korea,197.60,18.40,304.90,278.70,2020
+17,Wells Fargo,United States,98.90,14.30,1981.30,118.80,2020
+18,Citigroup,United States,104.40,17.10,2219.80,101.10,2020
+19,Walmart,United States,524.00,14.90,236.50,344.40,2020
+20,Verizon Communications,United States,131.40,18.40,294.50,237.70,2020
+21,Royal Dutch Shell,Netherlands,311.60,9.90,394.00,126.50,2020
+22,Amazon,United States,296.30,10.60,221.20,1233.40,2020
+23,Volkswagen Group,Germany,275.20,12.00,538.90,70.40,2020
+24,UnitedHealth Group,United States,246.30,13.80,189.10,277.10,2020
+25,Allianz,Germany,122.40,8.90,1183.50,77.10,2020
+26,China Merchants Bank,China,58.40,13.70,1094.90,120.90,2020
+27,Comcast,United States,108.70,11.70,262.40,171.70,2020
+28,China Mobile,Hong Kong,108.10,15.50,233.90,164.90,2020
+29,Total,France,176.20,11.30,273.30,93.10,2020
+30,Postal Savings Bank Of China (PSBC),China,64.40,9.00,1522.40,92.00,2020
+31,Alibaba Group,China,70.60,24.70,189.40,545.40,2020
+32,Gazprom,Russia,122.60,22.70,331.70,60.80,2020
+33,PetroChina,China,364.10,6.60,392.30,65.90,2020
+34,Johnson & Johnson,United States,82.80,17.20,155.00,395.30,2020
+35,RBC,Canada,50.90,10.00,1116.30,87.70,2020
+36,Walt Disney,United States,74.80,10.40,200.90,195.30,2020
+37,China Life Insurance,China,103.70,8.50,536.20,60.30,2020
+38,Intel,United States,75.70,22.70,147.70,254.00,2020
+39,Facebook,United States,73.40,21.00,138.40,583.70,2020
+40,CVS Health,United States,256.80,6.60,224.30,80.40,2020
+41,Nestlé,Switzerland,93.10,12.70,132.10,304.10,2020
+42,BNP Paribas,France,128.00,8.70,2429.90,39.20,2020
+43,Nippon Telegraph & Tel,Japan,109.60,7.90,211.10,83.00,2020
+44,HSBC Holdings,United Kingdom,67.20,3.80,2917.80,105.30,2020
+45,Bank of Communications,China,66.60,11.20,1422.10,47.10,2020
+46,TD Bank Group,Canada,44.80,9.30,1102.00,75.80,2020
+47,Goldman Sachs Group,United States,53.90,7.40,1090.00,63.40,2020
+48,Morgan Stanley,United States,53.00,8.30,896.80,62.10,2020
+49,Pfizer,United States,50.70,15.80,167.50,212.80,2020
+50,Tencent Holdings,China,54.60,13.50,137.00,509.70,2020
+51,IBM,United States,76.50,9.00,153.40,111.50,2020
+52,Mitsubishi UFJ Financial,Japan,60.10,5.40,2893.00,51.80,2020
+53,General Electric,United States,99.90,6.30,262.00,59.50,2020
+54,Rosneft,Russia,126.90,10.90,208.50,48.10,2020
+55,Santander,Spain,89.20,7.30,1709.20,37.10,2020
+56,Anheuser-Busch InBev,Belgium,52.30,9.10,238.30,89.90,2020
+57,Industrial Bank,China,50.20,9.20,1045.00,49.00,2020
+58,Reliance Industries,India,84.80,6.20,147.20,123.80,2020
+59,Sony,Japan,79.20,6.00,208.30,78.70,2020
+60,Sinopec,China,369.20,3.30,254.80,76.60,2020
+61,Chevron,United States,140.10,2.90,237.40,171.80,2020
+62,Siemens,Germany,97.40,5.90,171.00,75.40,2020
+63,Cigna,United States,154.50,4.90,157.00,72.80,2020
+64,AXA Group,France,150.00,4.00,850.80,42.30,2020
+65,Shanghai Pudong Development,China,50.00,8.60,1029.30,44.20,2020
+66,AIA Group,Hong Kong,40.90,6.60,280.30,111.80,2020
+67,Softbank,Japan,87.40,2.90,362.60,89.70,2020
+68,Novartis,Switzerland,48.60,12.20,123.10,193.00,2020
+69,Deutsche Telekom,Germany,90.10,4.30,207.10,69.20,2020
+70,Petrobras,Brazil,78.90,10.20,230.20,43.50,2020
+71,Procter & Gamble,United States,70.30,5.00,118.60,291.80,2020
+72,Japan Post Holdings,Japan,112.30,4.70,2680.20,32.70,2020
+73,LVMH Moët Hennessy Louis Vuitton,France,60.10,8.00,108.30,194.30,2020
+74,Roche Holding,Switzerland,61.90,13.60,85.80,297.40,2020
+75,BMW Group,Germany,116.60,5.50,271.30,38.90,2020
+76,Zurich Insurance Group,Switzerland,71.80,4.10,381.90,47.40,2020
+77,CITIC,Hong Kong,72.30,6.90,1063.90,30.30,2020
+78,Itaú Unibanco Holding,Brazil,52.00,6.90,408.80,41.00,2020
+79,China State Construction Engineering,China,203.00,6.10,292.30,30.70,2020
+80,MetLife,United States,69.00,5.90,746.30,32.80,2020
+81,Sumitomo Mitsui Financial,Japan,48.40,6.40,1954.80,36.40,2020
+82,Cisco Systems,United States,51.60,11.10,90.40,179.70,2020
+83,Honda Motor,Japan,142.40,4.30,188.50,42.60,2020
+84,Commonwealth Bank,Australia,27.30,7.00,688.80,72.60,2020
+85,Bank of Nova Scotia,Canada,34.80,6.40,872.60,48.70,2020
+86,Raytheon Technologies,United States,77.10,5.50,139.70,56.10,2020
+87,PepsiCo,United States,68.20,7.20,85.10,183.60,2020
+88,American Express,United States,46.80,5.50,186.10,73.50,2020
+89,General Motors,United States,137.20,6.70,228.00,31.90,2020
+90,China Minsheng Bank,China,48.50,7.80,959.20,32.80,2020
+91,British American Tobacco,United Kingdom,33.00,7.30,186.80,88.80,2020
+92,Merck & Co.,United States,47.90,10.10,84.40,200.30,2020
+93,BHP Group,Australia,45.80,9.40,102.30,107.10,2020
+94,Oracle,United States,39.80,10.80,96.70,167.00,2020
+95,Brookfield Asset Management,Canada,69.10,2.80,324.00,51.30,2020
+96,Coca-Cola,United States,37.20,10.00,94.00,197.10,2020
+97,Enel,Italy,86.60,2.40,192.40,69.40,2020
+98,GlaxoSmithKline,United Kingdom,44.70,6.80,104.60,104.40,2020
+99,LukOil,Russia,116.30,9.90,95.70,41.20,2020
+100,China Vanke,China,53.50,5.60,245.30,37.60,2020
+101,Banco Bradesco,Brazil,62.00,5.70,337.90,31.30,2020
+102,Bayer,Germany,49.90,4.80,137.70,64.70,2020
+103,US Bancorp,United States,25.90,6.40,542.90,55.50,2020
+104,Mitsubishi,Japan,140.80,4.80,167.00,32.40,2020
+105,Anthem,United States,109.30,4.80,82.40,70.80,2020
+106,Home Depot,United States,110.20,11.20,51.20,236.10,2020
+107,BASF,Germany,66.50,8.80,101.30,47.00,2020
+108,Taiwan Semiconductor,Taiwan,37.80,13.00,77.50,265.50,2020
+109,UBS,Switzerland,34.20,4.80,1098.10,38.40,2020
+110,Unilever,Netherlands,58.20,6.30,72.70,130.60,2020
+111,Country Garden Holdings,China,70.10,5.70,273.80,27.80,2020
+112,EDF,France,79.80,5.10,340.40,24.70,2020
+113,China Citic Bank,China,49.30,7.10,991.40,23.90,2020
+114,Rio Tinto,United Kingdom,43.20,8.00,87.80,75.50,2020
+115,Lloyds Banking Group,United Kingdom,64.30,3.10,1104.70,28.60,2020
+116,Prudential Financial,United States,64.90,4.10,896.60,24.70,2020
+117,Sanofi,France,40.40,3.30,126.50,122.50,2020
+118,Credit Agricole,France,74.30,4.80,1984.20,21.90,2020
+119,AbbVie,United States,33.30,7.80,89.10,121.40,2020
+120,Iberdrola,Spain,39.70,4.10,136.60,62.50,2020
+121,Hon Hai Precision,Taiwan,172.80,3.70,110.80,35.90,2020
+122,KDDI,Japan,47.80,5.90,86.50,66.90,2020
+123,Enbridge,Canada,37.50,4.30,125.90,62.20,2020
+124,Manulife,Canada,58.30,4.20,592.00,24.50,2020
+125,Intesa Sanpaolo,Italy,41.30,4.70,916.10,27.30,2020
+126,CNOOC,Hong Kong,33.60,8.80,108.80,50.60,2020
+127,Dell Technologies,United States,91.90,4.60,118.90,31.60,2020
+128,Westpac Banking Group,Australia,26.00,4.80,611.90,38.40,2020
+129,Medtronic,Ireland,31.10,5.30,92.80,130.80,2020
+130,China Pacific Insurance,China,55.80,4.00,215.70,30.00,2020
+131,SAIC Motor,China,121.10,3.70,121.90,31.30,2020
+132,Bank of Montreal,Canada,29.10,4.40,665.20,32.60,2020
+133,Caterpillar,United States,51.00,5.30,75.90,63.00,2020
+134,Chubb,Switzerland,34.00,3.70,173.10,48.80,2020
+135,Itochu,Japan,103.10,4.90,104.60,29.60,2020
+136,Walgreens Boots Alliance,United States,138.70,3.50,90.00,38.00,2020
+137,VINCI,France,54.60,3.60,102.30,45.50,2020
+138,Bristol-Myers Squibb,United States,26.10,3.40,129.90,137.60,2020
+139,PNC Financial Services,United States,21.50,5.00,445.50,45.20,2020
+140,Generali Group,Italy,91.90,3.00,578.60,22.50,2020
+141,Visa,United States,23.50,11.90,74.80,383.90,2020
+142,Costco Wholesale,United States,158.40,3.80,48.80,133.80,2020
+143,United Parcel Service,United States,74.80,4.30,57.90,81.30,2020
+144,Duke Energy,United States,25.10,3.70,163.60,62.10,2020
+145,Lockheed Martin,United States,61.10,6.20,49.20,109.10,2020
+146,HDFC Bank,India,20.70,3.80,209.00,73.10,2020
+147,Allstate,United States,44.30,4.80,121.10,32.20,2020
+148,China Everbright Bank,China,35.60,5.50,737.60,22.30,2020
+149,Charter Communications,United States,45.80,1.70,150.60,104.00,2020
+150,SAP,Germany,31.10,4.70,69.10,142.40,2020
+151,Tokio Marine Holdings,Japan,48.50,2.60,224.50,33.00,2020
+152,CK Hutchison,Hong Kong,38.20,5.10,155.40,28.60,2020
+153,Honeywell International,United States,36.70,6.10,58.70,100.40,2020
+154,China Evergrande Group,China,69.40,2.50,316.80,23.50,2020
+155,American International Group,United States,50.10,3.30,525.10,21.90,2020
+156,Orange,France,47.30,3.40,123.00,32.30,2020
+157,América Móvil,Mexico,52.30,3.50,81.10,40.50,2020
+158,Abbott Laboratories,United States,32.10,3.50,66.80,162.90,2020
+159,Bank of New York Mellon,United States,20.80,4.50,468.20,33.20,2020
+160,Credit Suisse Group,Switzerland,32.80,4.00,860.10,22.00,2020
+161,Capital One Financial,United States,31.10,2.80,396.90,29.50,2020
+162,Amgen,United States,23.90,7.70,61.70,140.60,2020
+163,Truist Financial,United States,17.20,3.50,506.20,50.30,2020
+164,ANZ,Australia,23.90,2.90,703.80,31.30,2020
+165,Equinor,Norway,60.30,1.80,118.10,46.40,2020
+166,Mitsui,Japan,65.50,3.70,114.30,24.10,2020
+167,Oversea-Chinese Banking,Singapore,24.90,3.60,365.70,28.30,2020
+168,China Shenhua Energy,China,35.00,6.10,80.80,35.60,2020
+169,Exelon,United States,33.80,2.90,125.00,36.10,2020
+170,PTT,Thailand,71.50,2.90,82.90,31.30,2020
+171,State Bank of India,India,51.10,2.00,559.90,22.60,2020
+172,Poly Developments & Holdings Group,China,31.00,4.00,148.30,27.50,2020
+173,Lowe's,United States,72.10,4.30,41.00,79.10,2020
+174,China Telecom,China,54.40,3.00,101.00,27.90,2020
+175,Southern Company,United States,20.80,3.50,118.90,60.00,2020
+176,L'Oréal,France,33.40,4.20,49.20,162.50,2020
+177,BlackRock,United States,15.10,4.20,168.60,77.90,2020
+178,Linde,United Kingdom,28.20,2.30,86.60,96.60,2020
+179,Canadian Imperial Bank,Canada,21.60,3.90,508.20,26.40,2020
+180,NextEra Energy,United States,17.20,3.50,120.60,113.10,2020
+181,Barclays,United Kingdom,28.80,2.60,1790.90,23.10,2020
+182,Deere & Company,United States,38.90,3.30,71.80,45.50,2020
+183,Union Pacific,United States,21.60,6.00,62.20,108.40,2020
+184,Thermo Fisher Scientific,United States,25.60,3.70,58.70,132.20,2020
+185,Deutsche Post,Germany,70.90,2.90,61.00,36.70,2020
+186,Gilead Sciences,United States,22.60,5.00,59.70,105.80,2020
+187,Phillips 66,United States,107.40,3.10,58.70,32.00,2020
+188,Mondelez International,United States,26.00,3.70,63.60,73.40,2020
+189,Hyundai Motor,South Korea,90.50,2.30,163.30,20.10,2020
+190,Qatar National Bank,Qatar,15.90,3.90,264.90,43.70,2020
+191,NAB - National Australia Bank,Australia,21.40,2.30,567.80,32.00,2020
+192,Broadcom,United States,22.70,2.60,81.00,108.60,2020
+193,Legal & General Group,United Kingdom,85.20,2.30,735.00,15.30,2020
+194,ING Group,Netherlands,20.50,5.40,1001.00,21.40,2020
+195,3M,United States,32.30,5.00,46.20,87.40,2020
+196,Target,United States,78.10,3.30,42.80,54.90,2020
+197,Marathon Petroleum,United States,123.40,2.60,98.60,20.90,2020
+198,Hitachi,Japan,82.90,1.80,94.60,29.30,2020
+199,Progressive,United States,39.10,3.60,56.30,45.20,2020
+200,DBS,Singapore,14.50,4.30,451.60,36.00,2020
+201,ConocoPhillips,United States,29.50,3.60,65.00,45.30,2020
+202,UniCredit,Italy,28.80,3.60,960.50,17.20,2020
+203,Philip Morris International,United States,30.20,7.60,37.50,116.20,2020
+204,China Railway Group,China,122.90,3.20,151.60,14.80,2020
+205,Accenture,Ireland,44.70,5.00,33.50,118.00,2020
+206,Munich Re,Germany,36.10,1.40,317.20,31.10,2020
+207,Royal Bank of Scotland,United Kingdom,23.50,4.50,957.80,16.80,2020
+208,Banco do Brasil,Brazil,42.00,3.80,359.50,14.70,2020
+209,McDonald's,United States,20.80,5.80,47.50,139.50,2020
+210,China Resources Land,Hong Kong,21.60,4.10,109.40,29.30,2020
+211,China Railway Construction,China,116.80,2.80,154.40,14.90,2020
+212,Saudi Basic Industries,Saudi Arabia,37.30,1.50,83.40,59.80,2020
+213,Aviva,United Kingdom,89.50,3.20,593.10,12.00,2020
+214,General Dynamics,United States,38.80,3.40,53.70,37.50,2020
+215,MS&AD Insurance,Japan,50.60,2.60,220.10,16.70,2020
+216,PICC,China,78.20,3.20,158.50,14.50,2020
+217,Aflac,United States,22.00,2.90,151.60,26.90,2020
+218,E.ON,Germany,45.90,1.80,118.00,26.10,2020
+219,Travelers,United States,31.80,2.40,109.40,25.60,2020
+220,Prudential,United Kingdom,94.50,768.00,440.40,36.90,2020
+221,Eli Lilly,United States,23.10,5.50,39.30,148.00,2020
+222,Kraft Heinz Company,United States,25.20,1.90,104.10,37.10,2020
+223,Sunac China Holdings,China,25.30,3.80,137.90,20.70,2020
+224,Charles Schwab,United States,11.50,3.50,370.80,48.60,2020
+225,HCA Healthcare,United States,51.70,3.00,45.40,37.20,2020
+226,Danaher,United States,19.90,2.60,62.10,113.90,2020
+227,Schneider Electric,France,30.40,2.70,50.50,50.40,2020
+228,Société Générale,France,47.80,2.80,1522.50,12.40,2020
+229,Midea Group,China,39.90,3.40,40.00,52.90,2020
+230,Dai-ichi Life Insurance,Japan,62.60,1.80,560.80,14.40,2020
+231,ENGIE,France,67.20,1.10,179.40,26.20,2020
+232,Fiat Chrysler Automobiles,United Kingdom,121.10,3.20,110.10,13.80,2020
+233,Volvo Group,Sweden,43.40,3.10,55.60,26.30,2020
+234,Seven & I Holdings,Japan,61.00,2.00,55.60,29.30,2020
+235,Humana,United States,67.70,2.60,34.60,50.50,2020
+236,Longfor Group Holdings,China,21.70,2.60,93.60,29.80,2020
+237,AstraZeneca,United Kingdom,26.20,1.50,57.20,137.70,2020
+238,JD.com,China,83.40,1.80,37.30,53.60,2020
+239,Air Liquide,France,24.50,2.50,49.00,60.00,2020
+240,Fresenius,Germany,39.60,2.10,75.20,23.80,2020
+241,Northrop Grumman,United States,34.30,2.30,43.20,55.10,2020
+242,Mizuho Financial,Japan,35.90,831.00,1874.90,29.80,2020
+243,Sun Life Financial,Canada,24.60,2.00,226.10,20.10,2020
+244,Inditex,Spain,31.60,4.10,31.50,79.30,2020
+245,Nike,United States,41.30,4.30,26.20,135.60,2020
+246,Gree Electric Appliances,China,28.80,3.60,40.30,46.70,2020
+247,Central Japan Railway,Japan,17.00,3.70,89.00,31.20,2020
+248,Danone,France,28.30,2.10,50.90,45.00,2020
+249,PayPal,United States,17.50,2.50,51.30,144.30,2020
+250,Cathay Financial,Taiwan,24.20,2.00,335.50,17.70,2020
+251,Surgutneftegas,Russia,24.70,6.80,80.80,17.90,2020
+252,Suncor Energy,Canada,28.90,2.20,69.00,27.30,2020
+253,Standard Chartered,United Kingdom,24.70,1.90,720.40,16.20,2020
+254,Tesco,United Kingdom,82.70,1.20,66.80,29.00,2020
+255,ICICI Bank,India,20.80,1.30,182.80,32.80,2020
+256,Panasonic,Japan,70.40,2.60,61.80,18.00,2020
+257,Safran,France,28.10,2.70,48.10,36.70,2020
+258,Qualcomm,United States,24.70,4.00,31.90,88.50,2020
+259,Royal Ahold Delhaize N.V.,Netherlands,74.20,2.00,46.60,26.40,2020
+260,KBC Group,Belgium,14.90,2.70,326.40,22.50,2020
+261,East Japan Railway,Japan,27.10,1.80,79.10,27.80,2020
+262,National Grid,United Kingdom,19.00,1.90,81.70,41.30,2020
+263,Delta Air Lines,United States,45.10,3.50,68.70,16.50,2020
+264,Peugeot,France,83.60,3.60,78.30,12.80,2020
+265,Telefónica,Spain,54.20,1.00,133.40,23.40,2020
+266,Kroger,United States,122.30,1.70,47.90,25.20,2020
+267,China Communications Construction,China,79.80,2.80,161.10,10.80,2020
+268,Shinhan Financial Group,South Korea,33.90,2.90,477.70,11.70,2020
+269,Oil & Natural Gas,India,60.10,4.40,72.60,13.40,2020
+270,Sun Hung Kai Properties,Hong Kong,11.20,5.10,103.60,39.80,2020
+271,Huaxia Bank,China,21.30,3.10,440.10,14.30,2020
+272,Fubon Financial,Taiwan,33.30,1.90,284.60,14.60,2020
+273,Diageo,United Kingdom,16.80,3.90,42.00,81.00,2020
+274,Anglo American,United Kingdom,29.90,3.50,56.20,22.00,2020
+275,Mastercard,United States,17.00,7.90,30.60,276.10,2020
+276,Dominion Energy,United States,16.40,1.40,103.80,64.60,2020
+277,Micron Technology,United States,19.60,2.30,49.60,53.30,2020
+278,KB Financial Group,South Korea,37.30,2.70,449.90,11.10,2020
+279,HDFC,India,13.20,2.30,98.20,44.20,2020
+280,LafargeHolcim,Switzerland,26.90,2.20,60.20,25.50,2020
+281,United Overseas Bank,Singapore,12.00,3.20,300.80,23.90,2020
+282,Bank of Beijing,China,17.90,3.10,393.10,14.90,2020
+283,Japan Tobacco,Japan,20.00,3.20,51.10,33.40,2020
+284,Netflix,United States,21.40,2.20,35.10,184.70,2020
+285,Centene,United States,82.20,845.00,66.40,38.60,2020
+286,China Unicom,Hong Kong,42.10,1.60,82.00,19.80,2020
+287,Jardine Matheson,Bermuda,40.90,2.80,97.00,13.40,2020
+288,Starbucks,United States,26.70,3.40,27.50,89.60,2020
+289,American Electric,United States,15.50,1.90,79.10,41.10,2020
+290,Sumitomo,Japan,49.90,2.70,77.10,14.40,2020
+291,Nordea Bank,Finland,13.00,1.70,622.80,26.10,2020
+292,Orix,Japan,21.30,3.00,118.20,15.40,2020
+293,TJX Cos,United States,41.70,3.30,24.10,59.50,2020
+294,Mitsubishi Electric,Japan,41.30,2.10,40.90,26.90,2020
+295,State Street,United States,12.30,2.40,362.50,22.20,2020
+296,SK Hynix,South Korea,23.20,1.30,55.20,47.00,2020
+297,RWE Group,Germany,14.70,9.50,79.40,17.70,2020
+298,ABB,Switzerland,28.00,1.40,46.10,40.50,2020
+299,Nomura,Japan,19.10,2.30,425.50,13.00,2020
+300,BCE,Canada,18.10,2.40,46.40,36.60,2020
+301,Automatic Data Processing,United States,14.70,2.50,43.40,63.00,2020
+302,HP,United States,58.40,3.00,31.70,22.20,2020
+303,First Abu Dhabi Bank,United Arab Emirates,8.90,3.10,227.40,34.40,2020
+304,EssilorLuxottica,France,19.50,1.20,59.00,53.90,2020
+305,Henkel,Germany,22.50,2.30,35.90,38.50,2020
+306,Canadian Natural Resources,Canada,17.20,4.10,62.30,19.80,2020
+307,Greenland Holdings Group,China,57.70,2.00,159.40,9.80,2020
+308,EMD Group,Germany,18.10,1.50,49.60,50.50,2020
+309,Swiss Re,Switzerland,49.00,734.00,238.60,20.30,2020
+310,Bank Of Shanghai,China,12.90,2.70,322.30,16.50,2020
+311,Archer Daniels Midland,United States,64.40,1.50,44.00,20.70,2020
+312,Anhui Conch Cement,China,22.70,4.90,25.70,41.70,2020
+313,Ecopetrol,Colombia,22.10,4.00,41.30,21.90,2020
+314,BT Group,United Kingdom,29.60,2.80,63.30,14.50,2020
+315,Poste Italiane,Italy,36.70,1.50,267.40,11.00,2020
+316,Novatek,Russia,13.20,13.40,32.50,42.60,2020
+317,TC Energy,Canada,9.80,3.10,76.60,43.30,2020
+318,CRH,Ireland,28.10,1.90,41.90,23.80,2020
+319,Macquarie Group,Australia,11.50,2.20,148.00,22.80,2020
+320,BBVA-Banco Bilbao Vizcaya,Spain,38.30,617.00,802.00,21.80,2020
+321,JXTG Holdings,Japan,95.50,1.50,81.60,11.50,2020
+322,Kering,France,17.80,2.40,30.50,63.00,2020
+323,Baoshan Iron & Steel,China,43.00,2.10,48.30,15.30,2020
+324,Daiwa House Industry,Japan,40.00,2.30,42.70,17.10,2020
+325,Couche Tard,Canada,57.50,2.10,24.80,31.10,2020
+326,Daimler,Germany,189.20,418.00,326.60,37.00,2020
+327,Bridgestone,Japan,32.30,2.70,36.30,20.70,2020
+328,Fannie Mae,United States,122.80,14.20,3503.30,2.00,2020
+329,Tyson Foods,United States,43.10,2.00,33.80,22.30,2020
+330,New China Life Insurance,China,25.20,2.10,125.80,10.80,2020
+331,Saint-Gobain,France,47.70,1.60,56.10,14.40,2020
+332,CSX,United States,11.80,3.30,38.80,50.70,2020
+333,DNB,Norway,9.70,2.80,317.90,19.10,2020
+334,Novo Nordisk,Denmark,18.30,5.80,18.90,146.80,2020
+335,Saudi Telecom,Saudi Arabia,14.60,2.90,32.10,48.30,2020
+336,LyondellBasell Industries,United Kingdom,34.70,3.40,30.40,19.30,2020
+337,EOG Resources,United States,17.60,2.70,37.10,27.70,2020
+338,Sempra Energy,United States,10.80,2.20,65.70,36.20,2020
+339,Eaton,Ireland,20.90,2.10,30.80,34.40,2020
+340,Freddie Mac,United States,79.30,7.20,2203.60,1.10,2020
+341,Heineken,Netherlands,26.80,1.20,52.20,22.40,2020
+342,Kweichow Moutai,China,11.30,6.20,25.60,225.50,2020
+343,CK Asset Holdings,Hong Kong,10.90,3.70,65.20,23.30,2020
+344,Becton Dickinson,United States,17.40,899.00,52.00,68.50,2020
+345,Stryker,United States,15.00,2.20,29.40,69.90,2020
+346,CRRC,China,31.70,1.50,55.90,15.20,2020
+347,Bank Rakyat Indonesia (BRI),Indonesia,10.50,2.40,102.10,22.50,2020
+348,China Merchants Shekou Industrial Zone Holdings,China,12.80,2.30,88.70,18.80,2020
+349,Maybank,Malaysia,10.50,2.00,204.00,19.80,2020
+350,Kinder Morgan,United States,12.80,1.30,73.50,34.40,2020
+351,Emirates NBD,United Arab Emirates,10.70,3.60,188.30,14.80,2020
+352,Marsh & McLennan,United States,17.20,1.80,31.40,49.20,2020
+353,Ameriprise Financial,United States,14.40,1.90,151.80,14.10,2020
+354,Dollar General,United States,27.80,1.70,25.10,44.10,2020
+355,Shin-Etsu Chemical,Japan,14.20,2.90,29.90,46.70,2020
+356,Barrick Gold,Canada,9.70,4.00,44.40,45.90,2020
+357,BP,United Kingdom,271.60,-3.30,273.90,79.40,2020
+358,Etisalat,United Arab Emirates,14.20,2.40,35.40,36.70,2020
+359,Canon,Japan,33.00,1.10,43.90,22.70,2020
+360,Sompo,Japan,32.80,1.30,111.80,11.90,2020
+361,ASML Holding,Netherlands,13.40,2.90,25.50,124.50,2020
+362,Natixis,France,33.50,2.00,576.00,7.50,2020
+363,Vivendi,France,17.80,1.80,41.90,25.30,2020
+364,Swiss Life Holding,Switzerland,25.50,1.20,235.80,11.30,2020
+365,Posco,South Korea,53.20,1.30,67.60,12.10,2020
+366,Biogen,United States,12.80,5.90,26.10,48.40,2020
+367,Mitsui Fudosan,Japan,17.50,1.50,67.20,18.20,2020
+368,Canadian National Railway,Canada,11.20,3.30,32.60,58.80,2020
+369,Booking Holdings,United States,15.10,4.90,21.40,60.60,2020
+370,NN Group,Netherlands,18.90,2.20,277.90,9.30,2020
+371,Fosun International,China,20.70,2.10,102.70,10.80,2020
+372,Wilmar International,Singapore,42.60,1.30,47.00,16.10,2020
+373,General Mills,United States,16.80,2.10,30.20,36.30,2020
+374,Carrefour,France,83.00,1.30,57.00,11.80,2020
+375,Daikin Industries,Japan,23.50,1.70,26.10,38.30,2020
+376,Tata Consultancy Services,India,22.10,4.60,16.00,100.70,2020
+377,Power Corp of Canada,Canada,31.50,874.00,352.10,11.50,2020
+378,Boston Scientific,United States,10.80,4.30,30.60,52.40,2020
+379,Discover Financial Services,United States,14.10,2.20,112.70,13.10,2020
+380,Synchrony Financial,United States,15.30,2.90,98.00,11.60,2020
+381,Michelin Group,France,27.00,1.90,35.60,17.40,2020
+382,Paccar,United States,24.30,2.10,27.30,23.90,2020
+383,Sumitomo Mitsui Trust,Japan,13.80,1.80,509.30,11.10,2020
+384,Xiaomi,China,29.80,1.50,26.40,31.50,2020
+385,Hartford Financial Services,United States,20.50,1.70,68.70,13.60,2020
+386,Philips,Netherlands,21.80,1.30,30.30,38.80,2020
+387,IntercontinentalExchange,United States,6.60,2.10,138.90,49.10,2020
+388,Norfolk Southern,United States,11.10,2.40,37.40,43.80,2020
+389,BAE Systems,United Kingdom,23.40,1.90,34.50,20.60,2020
+390,Indian Oil,India,69.90,1.80,47.10,10.60,2020
+391,Bank of Ningbo,China,8.60,2.10,202.90,20.80,2020
+392,Sysco,United States,60.50,1.80,19.40,28.60,2020
+393,CNP Assurances,France,46.60,1.50,470.30,7.10,2020
+394,Denso,Japan,47.40,626.00,52.40,27.60,2020
+395,Newmont Mining,United States,9.70,2.80,40.00,48.00,2020
+396,National Commercial Bank,Saudi Arabia,6.80,3.10,135.20,29.60,2020
+397,Adidas,Germany,25.00,1.50,22.80,44.90,2020
+398,CTBC Financial,Taiwan,14.10,1.40,207.50,13.10,2020
+399,Danske Bank,Denmark,16.00,1.50,589.30,10.10,2020
+400,China National Building,China,36.60,1.60,64.10,10.60,2020
+401,Richemont,Switzerland,16.40,1.60,34.00,32.10,2020
+402,Sberbank,Russia,47.60,10.60,410.00,59.90,2020
+403,VMware,United States,10.20,6.40,26.30,55.00,2020
+404,Nippon Steel,Japan,55.70,2.30,71.40,7.90,2020
+405,Komatsu,Japan,23.20,1.90,34.30,18.20,2020
+406,Transneft,Russia,16.40,2.80,54.30,13.40,2020
+407,Talanx,Germany,43.60,1.00,193.00,9.00,2020
+408,Xcel Energy,United States,11.50,1.40,52.70,33.40,2020
+409,Consolidated Edison,United States,12.50,1.30,58.10,26.30,2020
+410,Naturgy Energy Group,Spain,24.20,1.40,44.00,17.10,2020
+411,Fiserv,United States,10.20,893.00,77.50,69.70,2020
+412,Bank Of Jiangsu,China,13.80,2.00,309.80,9.90,2020
+413,Boeing,United States,70.60,-3.40,143.10,79.60,2020
+414,Waste Management,United States,15.50,1.70,28.20,42.40,2020
+415,Woolworths,Australia,43.00,1.10,25.80,29.50,2020
+416,Texas Instruments,United States,14.10,4.90,17.30,106.50,2020
+417,Hyundai Mobis,South Korea,31.90,1.80,38.70,13.20,2020
+418,Adobe,United States,11.60,3.20,21.20,170.40,2020
+419,DuPont de Nemours,United States,35.70,496.00,69.40,34.50,2020
+420,Hana Financial Group,South Korea,28.30,2.10,364.50,6.60,2020
+421,L3Harris Technologies,United States,12.90,1.30,38.30,42.00,2020
+422,Fujitsu,Japan,35.70,1.40,28.70,20.00,2020
+423,Shimao Property Holdings,Hong Kong,16.20,1.60,67.70,13.90,2020
+424,Norilsk Nickel,Russia,13.60,5.80,19.40,43.80,2020
+425,Imperial Brands,United Kingdom,20.50,1.30,41.60,20.00,2020
+426,China Zheshang Bank,China,13.40,1.70,257.70,10.30,2020
+427,Tokyo Electric Power,Japan,58.90,5.20,110.80,5.40,2020
+428,Fast Retailing,Japan,20.50,1.40,22.80,49.20,2020
+429,Emerson Electric,United States,18.00,2.20,21.70,34.10,2020
+430,Toyota Industries,Japan,20.00,1.30,48.90,15.80,2020
+431,Femsa,Mexico,26.30,1.00,33.80,23.40,2020
+432,Hewlett Packard Enterprise,United States,28.40,1.20,52.20,13.00,2020
+433,China Yangtze Power,China,7.50,3.40,41.80,54.40,2020
+434,Recruit Holdings,Japan,21.90,1.80,18.30,49.10,2020
+435,Keurig Dr Pepper,United States,11.20,1.20,48.80,37.20,2020
+436,Applied Materials,United States,15.00,2.80,19.80,45.60,2020
+437,Edison International,United States,12.30,1.30,64.40,21.30,2020
+438,Principal Financial Group,United States,17.10,1.30,246.90,10.00,2020
+439,AIRBUS,Netherlands,76.20,-2.10,128.40,49.60,2020
+440,CME Group,United States,5.20,2.40,137.90,63.90,2020
+441,OMV Group,Austria,26.30,1.90,47.70,10.70,2020
+442,Marubeni,Japan,63.60,1.40,62.70,8.50,2020
+443,AmerisourceBergen,United States,182.10,649.00,40.00,18.50,2020
+444,Larsen & Toubro,India,20.80,1.40,40.40,16.80,2020
+445,Bouygues,France,42.50,1.30,44.20,11.70,2020
+446,Nutrien,Canada,20.00,999.00,46.80,20.40,2020
+447,Kansai Electric Power,Japan,30.10,1.50,68.60,9.20,2020
+448,Sherwin-Williams,United States,18.00,1.60,20.60,48.70,2020
+449,Fujifilm Holdings,Japan,21.70,1.40,31.80,19.70,2020
+450,American Tower,United States,7.80,1.90,40.80,105.50,2020
+451,Pernod Ricard,France,10.60,1.60,36.80,40.00,2020
+452,VTB Bank,Russia,23.00,2.90,249.80,6.10,2020
+453,Telstra,Australia,16.60,1.40,32.00,23.70,2020
+454,Lennar,United States,22.90,2.00,29.20,15.60,2020
+455,Chubu Electric Power,Japan,28.60,1.60,49.80,10.30,2020
+456,Ecolab,United States,15.00,1.50,22.30,56.00,2020
+457,Cummins,United States,22.60,2.10,20.10,24.10,2020
+458,Marriott International,United States,21.00,1.30,25.10,29.50,2020
+459,SEB AB,Sweden,7.20,1.90,331.60,17.80,2020
+460,Investor AB,Sweden,7.30,2.70,48.70,38.50,2020
+461,JBS,Brazil,51.80,1.50,31.40,11.70,2020
+462,CaixaBank,Spain,11.30,1.40,456.90,10.70,2020
+463,National Bank of Canada,Canada,9.00,1.70,218.70,13.60,2020
+464,Svenska Handelsbanken,Sweden,7.20,1.70,363.00,18.30,2020
+465,Vodafone,United Kingdom,49.40,-2.50,174.40,37.90,2020
+466,Sampo,Finland,12.70,1.30,58.10,18.40,2020
+467,Power Construction Corporation of China,China,50.10,1.00,116.70,7.70,2020
+468,Carnival,United States,20.90,1.90,46.90,10.90,2020
+469,Eni,Italy,72.50,-4.30,131.70,34.10,2020
+470,The Estée Lauder Companies,United States,15.80,1.90,17.90,63.40,2020
+471,Fifth Third Bank,United States,9.00,1.80,185.40,13.30,2020
+472,ViacomCBS,United States,18.10,2.10,49.50,10.60,2020
+473,Al Rajhi Bank,Saudi Arabia,5.30,2.80,102.40,38.10,2020
+474,China Fortune Land Development,China,15.10,2.10,67.00,10.10,2020
+475,Kimberly-Clark,United States,18.80,2.40,15.70,47.20,2020
+476,Fortescue Metals Group,Australia,12.90,5.00,21.30,24.10,2020
+477,Public Service Enterprise Group,United States,9.50,1.70,47.70,25.60,2020
+478,KIA Motors,South Korea,50.90,1.20,45.80,9.80,2020
+479,Subaru,Japan,30.00,1.30,29.10,15.60,2020
+480,Suzuki Motor,Japan,33.60,1.10,31.70,15.70,2020
+481,Mitsubishi Heavy Industries,Japan,37.00,1.50,51.00,8.70,2020
+482,Southwest Airlines,United States,21.50,1.80,26.90,15.90,2020
+483,Mitsubishi Estate,Japan,11.20,1.10,55.20,22.30,2020
+484,Glencore International,Switzerland,215.10,-416.00,124.10,24.50,2020
+485,Aon,Ireland,11.00,1.50,29.40,39.90,2020
+486,Ford Motor,United States,149.90,-3.10,264.20,20.20,2020
+487,Bank Central Asia,Indonesia,6.00,2.00,66.20,42.80,2020
+488,Thales,France,20.60,1.30,35.00,16.10,2020
+489,NVIDIA,United States,10.90,2.80,17.30,179.00,2020
+490,Suning.com,China,38.80,1.40,34.00,10.90,2020
+491,Takeda Pharmaceutical,Japan,29.70,-498.00,119.90,56.60,2020
+492,EnBW-Energie Baden,Germany,22.30,822.00,52.40,14.70,2020
+493,Valero Energy,United States,106.10,422.00,47.70,25.80,2020
+494,Colgate-Palmolive,United States,15.70,2.40,15.00,60.30,2020
+495,Bank Mandiri,Indonesia,8.60,1.90,95.00,14.00,2020
+496,H&M - Hennes & Mauritz,Sweden,24.80,1.50,19.30,23.10,2020
+497,NTPC,India,13.50,1.80,47.70,12.60,2020
+498,Murata Manufacturing,Japan,14.00,1.70,20.60,36.00,2020
+499,SingTel,Singapore,12.50,933.00,36.40,32.70,2020
+500,Las Vegas Sands,United States,11.90,2.10,21.20,36.70,2020
